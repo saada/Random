@@ -1,0 +1,57 @@
+BIOLOGY:
+Final chapters: 1-10, 12-15
+Chapter 16-17 just lecture/quiz
+
+	PAPER (2-3 pages at most)
+
+Title					First LAST
+						Date
+						Lab Day Group
+
+	Hypotheses
+	1
+	2
+	3
+
+Results
+	
+	Table 1: Brassica rapa Stem Color Results
+	Chi Square table
+	136:52 red purple:green
+	Observed
+	Expected
+	Difference
+	d^2
+	d^2/e
+	X^2
+	alpha=0.05
+
+	Punnet Square
+		  R     r
+		|----|----|
+	R	|.25 |.25 |
+		|----|----|
+	r	|.25 |.25 |
+		|----|----|
+
+	Fig 1 Picture with title
+	Fig 2Relative Proportion of colors for Brassica stem trait
+
+				^
+				|
+		Label	|
+				|
+				|
+				----------------------> 
+				Purple red        geen
+
+	Conclusion
+
+WORK:
+Finish a good chunk of project for Monday's presentation
+
+TRIP:
+Camera
+Tante Mona bag
+Adel Salawy's check
+Baggage packing
